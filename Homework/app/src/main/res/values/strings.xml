@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SnusBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="oof">oof</string>
+    <string name="contact_next">Change Contact</string>
+    <string name="contact_sound">Change Sound</string>
+    <string name="contact_ok">Accept</string>
+    <string name="contact_cancel">Cancel</string>
+    <string name="sound_ok">Accept</string>
+    <string name="sound_cancel">Cancel</string>
+    <array name="Images">
+        <item>@drawable/bedopepega</item>
+        <item>@drawable/avatar_cat</item>
+        <item>@drawable/bedosleep</item>
+        <item>@drawable/bedothink</item>
+        <item>@drawable/bedohands</item>
+        <item>@drawable/bedogasp</item>
+
+    </array>
+    <array name="Contacts">
+        <item>Pepega</item>
+        <item>Lion King</item>
+        <item>Oof</item>
+    </array>
+    <array name="Sounds">
+        <item>mario</item>
+        <item>ring01</item>
+        <item>ring02</item>
+        <item>ring03</item>
+        <item>ring04</item>
+        <item>ringd</item>
+    </array>
+</resources>
